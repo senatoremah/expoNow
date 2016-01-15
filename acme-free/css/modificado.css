@@ -1,0 +1,23 @@
+.da-slider{
+
+	background-image: url("../img/fundo.jpg");
+}
+
+.da-slider h2{
+
+	margin-top: 140px;
+}
+
+.front{
+
+	position: relative;
+	margin-right: -100px;
+	z-index: 1;
+}
+
+.back{
+
+	position: absolute;
+	margin-left: -180px;
+	z-index: 1000;
+}
